@@ -8,7 +8,7 @@
 - Aggregates results from multiple random walks and visualizes the result 
 
 ![](https://github.com/sjfollett/portfolio/blob/main/images/Spy%2060%20Day%20Outlook.png?raw=true)
-![](images/Spy Outlook v Actual.png)
+![](https://github.com/sjfollett/portfolio/blob/main/images/Spy%20Outlook%20v%20Actual.png?raw=true)
 ![](images/Spy Monte Carlo 1.png)
 ![](images/Spy Histogram)
 
