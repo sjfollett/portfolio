@@ -17,3 +17,4 @@
 - Trained model on 2014-2016 data 
 - Regressed on 2016-2018 data utilizing Sk_learn Package & calculated R2 
 - Visualized result
+![]https://github.com/sjfollett/portfolio/blob/main/images/Oil%20to%20Rubles.png?raw=true
