@@ -1,6 +1,6 @@
 # Projects Portfolio
 
-## Project 1 - Monte Carlo Risk Model
+## Project 1 - [Monte Carlo Risk Model](https://github.com/sjfollett/portfolio/tree/main/monte_carlo)
 - Utilizes pandas datareader to gather stock data 
 - Looking at daily close price, calulates average daily move & standard deviation of average daily move
 - Applies a random walk starting at current price and then applying a random variable to average daily move and standard deviation
