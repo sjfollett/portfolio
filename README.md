@@ -12,7 +12,6 @@
 ![](https://github.com/sjfollett/portfolio/blob/main/images/Spy%20Monte%20Carlo%201.png?raw=true)
 ![](https://github.com/sjfollett/portfolio/blob/main/images/Spy%20Histogram.png?raw=true)
 
-
 ## Project 2 - Linear Regression 
 - Examined relationship between Oil price and USD/RUB FX conversion price
 - Trained model on 2014-2016 data 
@@ -20,7 +19,6 @@
 - Visualized result
 
 ![](https://github.com/sjfollett/portfolio/blob/main/images/Oil%20to%20Rubles.png?raw=true)
-
 
 ## Project 3 - Logistic Regression (Classification Alogrithm)
 - Looked at portfolio of 150k loan applications to determine which items on the loan application are most sensitive to determinig default
@@ -30,7 +28,6 @@
 
 ![](https://github.com/sjfollett/portfolio/blob/main/images/Logisitic%20Regression.JPG)
 ![](https://github.com/sjfollett/portfolio/blob/main/images/Correlation%20Matrix.JPG)
-
 
 ## Project 4 - CAPM and Efficient Frontier 
 - Analyzed Monthly return data of AAPL, PG, GE, SPY and T-Bills
@@ -45,7 +42,6 @@
 ![](https://github.com/sjfollett/portfolio/blob/main/images/Beta%20Regression.JPG?raw=true)
 ![](https://github.com/sjfollett/portfolio/blob/main/images/SML.JPG?raw=true)
 
-
 ## Project 5 - 3 Financial Statement Model
 - Created 3 Financial Statement Excel Model for restaurant franchise 
 - Account roll-ups from individual stores to enterprise level
@@ -57,10 +53,32 @@
 ![](https://github.com/sjfollett/portfolio/blob/main/images/Balance%20Sheet.JPG)
 ![](https://github.com/sjfollett/portfolio/blob/main/images/CashFlow.JPG)
 
-## Project 6 - General Mills Valuation 
+## Project 6 - Kellog Valuation
+- Analyzed 10k to divide balance sheet and income statement items into operating and financing items
+- Caluculated NOPAT and NOA 
+- Grossed up balance sheet 
+- Adjusted for Stock Based Compensation overhang and Capital Leases
+- Created common sized income statement and balance sheets
+- Estimated WACC 
+- Applied DCF, ROPI and Abnormal Income Growth models to fundamentally value company
+- Adjusted for date of valuation
+
+![](https://github.com/sjfollett/portfolio/blob/main/images/DCF.JPG?raw=true)
 
 ## Project 7 - SQLite Database Manager 
+- Created SQLite database browser in python
+- Perform basic CRUD (create, read, update, delete) operations through python function  
+- Utilized principles of object oriented programming to create a simple family tree structure that can be managed via the database browser 
+
+![](https://github.com/sjfollett/portfolio/blob/main/images/Database%20browser.JPG)
 
 ## Project 8 - AZDPS Web Scraper 
+- Utilized Selenium python package to automate process of checking employees & potential employees criminal record with local Police Department for a pre-school with 15 employees
+- Exports results to pre school owners and facilitates compliance with inspections for business 
 
 ## Project 9 - PyBaseball Pitching Charts 
+- Retrived statcast data and visualized time-series results for pitchers in python 
+- Manipulated data to show horizontal and vertical movement by pitch type
+
+![](https://github.com/sjfollett/portfolio/blob/main/images/Mayers2020.png?raw=true)
+![](https://github.com/sjfollett/portfolio/blob/main/images/Mayers2021.png?raw=true)
