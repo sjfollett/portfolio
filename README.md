@@ -11,4 +11,3 @@
 ![](images/Spy Outlook v Actual.png)
 ![](images/Spy Monte Carlo 1.png)
 ![](images/Spy Histogram)
-
