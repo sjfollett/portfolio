@@ -20,7 +20,7 @@
 
 ![](https://github.com/sjfollett/portfolio/blob/main/images/Oil%20to%20Rubles.png?raw=true)
 
-## Project 3 - [Logistic Regression (Classification Alogrithm)](https://github.com/sjfollett/portfolio/tree/main/log_regression)
+## Project 3 - [Logistic Regression (Classification Algorithm)](https://github.com/sjfollett/portfolio/tree/main/log_regression)
 - Looked at portfolio of 150k loan applications to determine which items on the loan application are most sensitive to determinig default
 - Found the best correlated indicators and assigned weights to them 
 - Ran logisitc regression with 70/30 test train split 
