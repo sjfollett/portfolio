@@ -7,3 +7,8 @@
 - Scalable timeframes and number of simulations 
 - Aggregates results from multiple random walks and visualizes the result 
 
+![](images/Spy 60 Day Outlook.png)
+![](images/Spy Outlook v Actual.png)
+![](images/Spy Monte Carlo 1.png)
+![](images/Spy Histogram)
+
