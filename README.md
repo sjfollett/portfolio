@@ -47,6 +47,15 @@
 
 
 ## Project 5 - 3 Financial Statement Model
+- Created 3 Financial Statement Excel Model for restaurant franchise 
+- Account roll-ups from individual stores to enterprise level
+- Forecasted sales & expense growth for 5 years 
+- Linked entire spreasheed to one inputs tab for assumptions
+- Aggregate sheets are linked to individual store sheets 
+
+![](https://github.com/sjfollett/portfolio/blob/main/images/P%26L.JPG)
+![](https://github.com/sjfollett/portfolio/blob/main/images/Balance%20Sheet.JPG)
+![](https://github.com/sjfollett/portfolio/blob/main/images/CashFlow.JPG)
 
 ## Project 6 - General Mills Valuation 
 
