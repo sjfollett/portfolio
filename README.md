@@ -12,7 +12,7 @@
 ![](https://github.com/sjfollett/portfolio/blob/main/images/Spy%20Monte%20Carlo%201.png?raw=true)
 ![](https://github.com/sjfollett/portfolio/blob/main/images/Spy%20Histogram.png?raw=true)
 
-## Project 2 - Linear Regression 
+## Project 2 - [Linear Regression](https://github.com/sjfollett/portfolio/tree/main/linear_regression) 
 - Examined relationship between Oil price and USD/RUB FX conversion price
 - Trained model on 2014-2016 data 
 - Regressed on 2016-2018 data utilizing Sk_learn Package & calculated R2 
